@@ -32,3 +32,9 @@ body {
 .audio {
     flex: 0 0 auto;
 }
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    width: 100%
+}

@@ -12,3 +12,4 @@ types-requests
 ecs-logging
 elastic-apm
 multiavatar
+multiavatar
